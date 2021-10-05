@@ -8,5 +8,5 @@ public class SampleEntity {
     private int sampleId;
 
     private String sampleName;
-    
+
 }
